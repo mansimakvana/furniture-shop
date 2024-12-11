@@ -10,20 +10,15 @@ export const navbar = [
     nav: "Shop",
   },
   {
-    id: 3,
-    path: "/blog",
-    nav: "Blog",
-  },
-  {
     id: 4,
     path: "/about",
     nav: "About Us",
   },
-  {
-    id: 5,
-    path: "/contact",
-    nav: "Contact Us",
-  },
+  // {
+  //   id: 5,
+  //   path: "/contact",
+  //   nav: "Contact Us",
+  // },
 ];
 
 export const banners = [
