@@ -34,7 +34,7 @@ const Header = () => {
       >
         <div className="flex flex-wrap justify-between items-center w-10/12 m-auto">
           <div>
-            <div class="logo">miniture</div>
+            <div className="logo">Furniture Shop</div>
           </div>
           <div className="md:flex flex-wrap text-base py-3">
             {navbar.map((nav, key) => (
